@@ -67,7 +67,7 @@ tr:nth-child(even) {
 }
 .linde:hover{
     text-shadow:5px 5px 5px yellowgreen ;
-    border: 5px 5px solid darkgreen;
+    border: 2px solid darkgreen;
     cursor: pointer;
     
 }
